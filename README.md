@@ -1,4 +1,5 @@
 helloci
+Yuliya Valadzko
 =======
 
 Test projects for Git training
